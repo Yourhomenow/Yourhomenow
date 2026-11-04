@@ -42,5 +42,4 @@ HTML, CSS, and JavaScript practice through The Odin Project, [JavaScript30](http
 
 ## Contact
 
-- Email: <!-- your email -->
-- LinkedIn: <!-- your LinkedIn URL -->
+- Email: contacttanadoltoti@gmail.com
